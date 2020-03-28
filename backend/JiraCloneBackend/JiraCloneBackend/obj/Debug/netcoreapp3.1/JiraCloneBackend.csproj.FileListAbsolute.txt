@@ -1,0 +1,17 @@
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/JiraCloneBackend.deps.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/JiraCloneBackend.runtimeconfig.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/JiraCloneBackend.runtimeconfig.dev.json
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/JiraCloneBackend.dll
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/bin/Debug/netcoreapp3.1/JiraCloneBackend.pdb
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.csprojAssemblyReference.cache
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.AssemblyInfoInputs.cache
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.AssemblyInfo.cs
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.RazorTargetAssemblyInfo.cache
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/staticwebassets/JiraCloneBackend.StaticWebAssets.Manifest.cache
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/staticwebassets/JiraCloneBackend.StaticWebAssets.xml
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.dll
+/Users/tylersimmons/Repositories/jira-clone/backend/JiraCloneBackend/JiraCloneBackend/obj/Debug/netcoreapp3.1/JiraCloneBackend.pdb
